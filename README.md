@@ -33,4 +33,6 @@ In the future we would expand on this to add user accounts to add a bio, post si
 
 https://codinglifeucd.herokuapp.com/
 
+![Image of Preview](public/img/preview.png/)
+
 
