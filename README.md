@@ -1,4 +1,4 @@
-# CodingLife;  Project# #2
+<h1> CodingLife; </h1>  <h3> Projec #2 </h3>
 
 ##Minimum Viable Product (MVP)
 
