@@ -1,18 +1,21 @@
-<h1> CodingLife; </h1>  <h3> Projec #2 </h3>
+<h1> CodingLife; </h1>
+
+## Projec #2 
 
 <h2> Overview </h2>
 
-A website that allows people to post and reply to each other about coding or other topics. In other words, a tech forum with a focus on developers.
+A website that allows people to **post and reply** to each other about coding or other topics. In other words, a tech forum with a focus on developers.
 
-Our goal with this website was to create an online forum that would cover the CRUD criteria effectively.
+Our goal with this website was to create an online forum that would cover **the CRUD**
+ criteria effectively.
 
 
-<h2> Features </h2>
+## Features 
 
 - [x] The shell of a working forum
 - [x] Most of the basic functionality of a forum is in place.
-- [x] 
-- [x] 
+- [] 
+- [] 
 
 
 ##Implemented Technology
